@@ -1,0 +1,1 @@
+This repository contains an example of an uncommon but potentially confusing bug related to mutable state in F#. The `bug.fs` file shows the problematic code, while `bugSolution.fs` offers a corrected version emphasizing immutability.  This example highlights the importance of understanding how mutable variables behave within F# functions and how to avoid unexpected side effects.
